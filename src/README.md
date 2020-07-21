@@ -7,3 +7,4 @@ deja de recibir solicitudes y termina sólo cuando ya no hay jugadores activos.
 
 Lo que intentamos realizar, se describe en la siguiente imagen:
 
+![im1](img/Jalisco.png)
